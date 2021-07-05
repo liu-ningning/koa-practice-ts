@@ -1,7 +1,7 @@
 {
   "name": "koa-typescript-practice",
   "version": "1.0.0",
-  "description": "A koa and typescript practice and want to look for a girlfriend...",
+  "description": "A koa and typescript practice",
   "private": true,
   "main": "build/app.js",
   "engines": {
